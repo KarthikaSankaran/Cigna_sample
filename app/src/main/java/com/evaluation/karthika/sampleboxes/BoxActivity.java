@@ -9,6 +9,8 @@ import android.widget.LinearLayout;
 import android.widget.ScrollView;
 
 public class BoxActivity extends AppCompatActivity {
+    LinearLayout linear;
+    int count;
 
     @Override
     protected void onCreate(Bundle savedInstanceState)
